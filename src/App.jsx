@@ -12,7 +12,7 @@ function App() {
 //<img src={viteLogo} className="logo react" alt="React logo" />
   return (
     <>
-      <div>
+      <div className='bgSimple'>
         <span>Dingus presents</span>
         <h1 className='colorChange' style={{marginTop: 0}}>
           Potion Maker
