@@ -50,7 +50,9 @@ function App() {
         <div>
           <h3 style={{marginBottom: 0}} className="inlineBlock">The potion has a label showing,&nbsp;</h3><h2 style={{marginTop: 0}}  className="inlineBlock">{getRandomValue(potionAttributes.potionLabel)}</h2>
         </div>
-        
+        <br/>
+        <a style={{color:"lightgoldenrodyellow"}} href="https://www.reddit.com/r/DnDBehindTheScreen/comments/4btnkc/random_potions_table/">Link to original reddit post that inspired this small project</a>
+
       </div>
     </>
   )
